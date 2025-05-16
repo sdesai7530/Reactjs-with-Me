@@ -4,3 +4,4 @@ build/
 .env
 dist/
 node_modules/
+coverage/
